@@ -1,8 +1,8 @@
 install.packages("geobr")
-install.packages("gplot2")
+install.packages("ggplot2")
 
 library(geobr)
-library(gplot2)
+library(ggplot2)
 
 municipios <- read_municipality(code_muni = 11)
 
