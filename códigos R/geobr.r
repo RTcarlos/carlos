@@ -10,4 +10,7 @@ municipios <- read_municipality()
 plot(municipios_ro)
 plot(municipios)
 
+
+##teste
+##pra que isso senhor!!!!!!!!!!
 ##testeeeeeee
